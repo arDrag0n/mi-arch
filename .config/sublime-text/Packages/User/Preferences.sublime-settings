@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"remember_workspace": false,
+	"hot_exit": "disabled",
+	"remember_open_files": false
+
+}
