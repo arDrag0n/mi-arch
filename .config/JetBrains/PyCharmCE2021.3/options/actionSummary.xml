@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="9" l="1642938253044" />
+    </e>
+    <e n="$Undo">
+      <i c="20" l="1642167299341" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1642164698558" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="3" l="1641825317783" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1642166150016" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="699" l="1642938520949" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="21" l="1642938397531" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1642938031747" />
+    </e>
+    <e n="EditorDown">
+      <i c="145" l="1642938510563" />
+    </e>
+    <e n="EditorEnter">
+      <i c="49" l="1642938437117" />
+    </e>
+    <e n="EditorLeft">
+      <i c="62" l="1642937624014" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="5" l="1642937584756" />
+    </e>
+    <e n="EditorPaste">
+      <i c="16" l="1642167279631" />
+    </e>
+    <e n="EditorRight">
+      <i c="26" l="1642938411610" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="52" l="1642937628909" />
+    </e>
+    <e n="EditorUp">
+      <i c="35" l="1642938502954" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1641825175830" />
+    </e>
+    <e n="Run">
+      <i c="186" l="1642938524293" />
+    </e>
+    <e n="SaveAll">
+      <i c="6" l="1642166512524" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1641823410027" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1641823413439" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="2" l="1642937425747" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="4" l="1642164702761" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1641823442158" />
+    </e>
+  </component>
+</application>
