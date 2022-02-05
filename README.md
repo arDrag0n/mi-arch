@@ -1,5 +1,5 @@
-# MI-ARCH
 ## Customized Arch-Linux
 ### SCRIPT IS STILL IN ALPHA VERSION
-First install install.sh and yay.sh (respectively) as root  
-Then install theme.sh as a regular user
+Run install.sh in installation environment
+Then run root.sh as root
+Finally, run theme.sh as a regular user
