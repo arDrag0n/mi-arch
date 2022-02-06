@@ -20,6 +20,7 @@ echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen
 echo "LANG=en_US.UTF-8 UTF-8" >> /etc/locale.conf
 mkinitcpio -P
 passwd
-#For BIOS Systems
+# For BIOS Systems
+# Chnage this according to Drive
 read -e -i "grub-install --target=i386-pc /dev/sda" && eval "$REPLY"
 read -e -i "grub-mkconfig -o /boot/grub/grub.cfg" && eval "$REPLY"
