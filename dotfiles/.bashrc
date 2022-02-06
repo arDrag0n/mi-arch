@@ -50,6 +50,7 @@ alias l='ls -CF'
 alias cls='clear'
 alias ..='cd ..'
 alias .='pwd'
+alias DATA='cd /mnt/DATA/REHAN'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
