@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Moving Dotfiles
+mv dotfiles/* ~
 # Spotify Themeing
 curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
 curl -fsSL https://raw.githubusercontent.com/CharlieS1103/spicetify-marketplace/main/install.sh | sh
