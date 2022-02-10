@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 # Boot into installaion medium install and mount the installtion drive
 # You can see connected drives with fdisk -l
 # fdisk for partitioning
