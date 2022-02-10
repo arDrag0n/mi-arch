@@ -1,7 +1,7 @@
 # Spotify Themeing
 curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
 curl -fsSL https://raw.githubusercontent.com/CharlieS1103/spicetify-marketplace/main/install.sh | sh
-cd .config/spicetify/Themes && svn checkout https://github.com/morpheusthewhite/spicetify-themes/trunk/Dribbblish && cd -
+cd ~/.config/spicetify/Themes && svn checkout https://github.com/morpheusthewhite/spicetify-themes/trunk/Dribbblish && cd -
 cd "$(dirname "$(spicetify -c)")/Themes/Dribbblish"
 mkdir -p ../../Extensions
 cp dribbblish.js ../../Extensions/.
