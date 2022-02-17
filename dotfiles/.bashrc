@@ -31,7 +31,7 @@ esac
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls='ls --color=auto'
+    # alias ls='ls --color=auto'
     #alias dir='dir --color=auto'
     #alias vdir='vdir --color=auto'
 
@@ -51,6 +51,7 @@ alias cls='clear'
 alias ..='cd ..'
 alias .='pwd'
 alias DATA='cd /mnt/DATA/REHAN'
+alias github='cd /mnt/DATA/REHAN/Github'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -80,3 +81,4 @@ fi
 # BEGIN_KITTY_SHELL_INTEGRATION
 if test -n "$KITTY_INSTALLATION_DIR" -a -e "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; then source "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; fi
 # END_KITTY_SHELL_INTEGRATION
+export PATH="$HOME/.local/bin:$PATH"
